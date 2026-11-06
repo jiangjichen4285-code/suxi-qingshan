@@ -1,4 +1,4 @@
-/* OASIS — editorial layouts and a five-page reservation journey. */
+/* SuXi — editorial layouts and a five-page reservation journey. */
 :root{--header:132px;--gutter:clamp(28px,5vw,88px)}
 html{background:#172b22;scroll-behavior:auto}
 body{font-size:18px}body.detail-open{overflow:hidden}
